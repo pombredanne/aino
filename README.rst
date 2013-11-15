@@ -2,7 +2,7 @@ August 9th 2008 / Ville Tuulos
 
 
 Aino - a Content-Based Search Engine
-------------------------------------
+====================================
 
 This package contains source code for the Aino search engine. In brief,
 Aino is a system for building optimized indices for documents made of
@@ -84,4 +84,10 @@ scons
 
 
 That's all for now. Happy hacking!
+
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/tuulos/aino/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
 
